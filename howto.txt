@@ -1,0 +1,4 @@
+8c: compile c code into object file
+8g: compile go code into object file
+8l: link objects file into program
+
